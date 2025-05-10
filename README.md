@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/Uhasmitha1231/leetcode/tree/master/0174-dungeon-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
