@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Uhasmitha1231/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Uhasmitha1231/leetcode/tree/master/0058-length-of-last-word) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
