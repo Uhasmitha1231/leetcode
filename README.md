@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Uhasmitha1231/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Uhasmitha1231/leetcode/tree/master/0127-word-ladder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Uhasmitha1231/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Uhasmitha1231/leetcode/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/Uhasmitha1231/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/Uhasmitha1231/leetcode/tree/master/0127-word-ladder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Uhasmitha1231/leetcode/tree/master/0093-restore-ip-addresses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Uhasmitha1231/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
