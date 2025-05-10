@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Uhasmitha1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1580-shuffle-the-array) |
 ## Sliding Window
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
