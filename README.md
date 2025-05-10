@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
