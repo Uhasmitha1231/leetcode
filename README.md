@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Uhasmitha1231/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/Uhasmitha1231/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Uhasmitha1231/leetcode/tree/master/2058-concatenation-of-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Uhasmitha1231/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0018-4sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Uhasmitha1231/leetcode/tree/master/0174-dungeon-game) |
+| [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Uhasmitha1231/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Simulation
 |  |
 | ------- |
