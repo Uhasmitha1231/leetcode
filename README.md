@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Uhasmitha1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
