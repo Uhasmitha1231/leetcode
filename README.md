@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Uhasmitha1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Uhasmitha1231/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1580-shuffle-the-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Uhasmitha1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
