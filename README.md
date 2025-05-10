@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Uhasmitha1231/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Uhasmitha1231/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Uhasmitha1231/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2048-build-array-from-permutation](https://github.com/Uhasmitha1231/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Uhasmitha1231/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Uhasmitha1231/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
