@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Uhasmitha1231/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Uhasmitha1231/leetcode/tree/master/0058-length-of-last-word) |
+| [0093-restore-ip-addresses](https://github.com/Uhasmitha1231/leetcode/tree/master/0093-restore-ip-addresses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Uhasmitha1231/leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
