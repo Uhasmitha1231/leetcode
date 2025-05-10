@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
