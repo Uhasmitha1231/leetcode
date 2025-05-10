@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Uhasmitha1231/leetcode/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Uhasmitha1231/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1580-shuffle-the-array](https://github.com/Uhasmitha1231/leetcode/tree/master/1580-shuffle-the-array) |
 ## Sliding Window
 |  |
 | ------- |
