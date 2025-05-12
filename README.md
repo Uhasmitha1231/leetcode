@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Uhasmitha1231/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uhasmitha1231/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Uhasmitha1231/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Uhasmitha1231/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Uhasmitha1231/leetcode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Uhasmitha1231/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uhasmitha1231/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Uhasmitha1231/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
