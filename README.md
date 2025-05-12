@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/Uhasmitha1231/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/Uhasmitha1231/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
