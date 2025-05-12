@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uhasmitha1231/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Uhasmitha1231/leetcode/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Uhasmitha1231/leetcode/tree/master/0174-dungeon-game) |
+| [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/Uhasmitha1231/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Uhasmitha1231/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Uhasmitha1231/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Uhasmitha1231/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
